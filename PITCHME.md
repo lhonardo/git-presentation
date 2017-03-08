@@ -149,13 +149,20 @@ git merge feature
 <img src="assets/pullrequest.png" style="max-height: 500px;"/>
 
 #HSLIDE
-
-### Code block
+### Concluindo
+#### Gitignore
 ```
-git commit -m "test message"
-```
-#HSLIDE
+*.class
+*.log
 
+.cache
+.history
+.lib/
+dist/*
+target/
+
+PITCHME2.md
+```
 ### Fragment data
 - Java
 - JavaScript <!-- .element: class="fragment" -->
