@@ -117,6 +117,14 @@ git push origin master
 
 #HSLIDE
 
+### Crie Branches!
+```
+git branch <nome da branch>
+```
+<img src="assets/gitbranch.png" style="max-height: 500px;"/>
+
+#HSLIDE
+
 ### Imagine
 <img src="assets/gitmergefight.gif" style="max-height: 500px;"/>
 
