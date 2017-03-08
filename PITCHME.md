@@ -18,19 +18,20 @@
 ### O Nome:
 
 #### Global Information Tracker
-<span style="color:gray">"Se você estiver de bom humor"</span>
+_<span style="color:gray">"Se você estiver de bom humor"</span>_
 
 
 #### Goddamn idiotic truckload of sh*t":
-<span style="color:gray">"Quando não funciona"</span>
+_<span style="color:gray">"Quando não funciona"</span>_
 
->_Fonte: documentação do Git no github_
 
 #HSLIDE
 
 ### Motivo do nascimento:
 
->O principal motivo foi o descontentamento do Linus com as ferramentas diponíveis na época
+>Um dos principais motivos foi o descontentamento do Linus com as ferramentas diponíveis na época
+
+>_"I decided I could write something better than everything out there in two weeks. And I was right." -Linus Torvalds﻿_
 
 #### Que soluções existiam:
 - Perforce
