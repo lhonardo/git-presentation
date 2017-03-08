@@ -24,7 +24,7 @@
 ![Linus](assets/beforevcstimeline.png)
 
 #HSLIDE
-### O Nome:
+### G.I.T.:
 
 #### Global Information Tracker
 _<span style="color:gray">"Se você estiver de bom humor"</span>_
