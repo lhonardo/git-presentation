@@ -6,7 +6,15 @@
 
 #HSLIDE
 
-### Significado do nome, segundo a documentação:
+### História:
+![Linus](assets/LinusTorvalds.jpeg)
+>Foi criado por Linus Torvalds em 2005 para uso no desenvolvimento do Kernel do Linux.
+
+>É um VCS (Sistema de controle de versão), monitora mudanças em arquivos e coordena o trabalho neles para um individuo ou um grupo de pessoas, é normalmente usado em desenvolvimento de software, mas também pode ser usado em qualquer tipo de arquivo.
+
+#HSLIDE
+
+### Significado do nome
 
 #### Global Information Tracker
 > ("Se você estiver de bom humor")
@@ -14,9 +22,11 @@
 #### Goddamn idiotic truckload of sh*t":
 > ("Quando não funciona")
 
+>Fonte: documentação do Git no github
+
 #HSLIDE
 
-> The name "git" was given by Linus Torvalds when he wrote the very first version. He described the tool as "the stupid content tracker" and the name as (depending on your mood):
+>
 
 #HSLIDE
 
