@@ -43,7 +43,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 >_"I decided I could write something better than everything out there in two weeks. And I was right." -Linus Torvalds﻿_
 
 #HSLIDE
-### Que soluções existiam em 2005:
+### O que existia 2005?:
 - Perforce
 - Monolitico
 - CVS
@@ -51,8 +51,8 @@ _<span style="color:gray">"Quando não funciona"</span>_
 
 #HSLIDE
 
-### O que elas tinham em comum:
-> Além de não serem opensource (código aberto)...
+### O que tinham em comum:
+> Além de não serem opensource... (código aberto)
 
 #HSLIDE
 
@@ -77,6 +77,14 @@ _<span style="color:gray">"Quando não funciona"</span>_
 ### Linha do Tempo
 
 <img src="assets/timelinecommit.jpg" style="max-height: 500px;"/>
+
+#VSLIDE
+
+### Log
+```
+git log
+```
+<img src="assets/gitlog.png" style="max-height: 500px;"/>
 
 #HSLIDE
 
