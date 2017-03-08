@@ -51,12 +51,10 @@
 #HSLIDE
 
 ### As três árvores
->Arquivos têm 3 estados:
--Committed
--Modified
--Staged
 
 <img src="assets/workflow.png" style="max-height: 500px;"/>
+
+>Committed, Modified, Staged
 
 #HSLIDE
 
