@@ -43,7 +43,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 #HSLIDE
 
 ### O que elas tinham em comum:
-> Além de não serem opensource o que mais essas soluções tinham em comum que fez o Linus buscar algo novo?
+> Além de não serem opensource (código aberto)...
 
 #HSLIDE
 
