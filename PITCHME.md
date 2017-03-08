@@ -14,13 +14,14 @@
 
 #HSLIDE
 
-### O Nome:
+#### O Nome:
 
-#### Global Information Tracker
-##### _("Se você estiver de bom humor")_
+##### Global Information Tracker
+<span style="color:gray">"Se você estiver de bom humor"</span>
 
-#### Goddamn idiotic truckload of sh*t":
-##### _("Quando não funciona")_
+
+##### Goddamn idiotic truckload of sh*t":
+<span style="color:gray">"Quando não funciona"</span>
 
 >_Fonte: documentação do Git no github_
 
