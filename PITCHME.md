@@ -61,7 +61,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 
 ### Git add & Git commit
 
-<img src="assets/commandstree.png" style="max-height: 500px;"/>
+<img src="assets/commandstrees.png" style="max-height: 500px;"/>
 
 #HSLIDE
 
