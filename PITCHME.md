@@ -2,7 +2,6 @@
 
 ## GIT
 
->Sistema de controle de versão
 >Gerência de Projetos de Software
 >Leonardo Santos
 
