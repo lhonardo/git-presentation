@@ -81,7 +81,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 #VSLIDE
 
 ### Log
-```
+```git
 git log
 ```
 <img src="assets/gitlog.png" style="max-height: 500px;"/>
