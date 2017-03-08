@@ -2,9 +2,9 @@
 
 ## GIT
 
-<span style="color:gray">Sistema de controle de versão</span>
-<span style="color:gray">Gerência de Projetos de Software</span>
-<span style="color:gray">Leonardo Santos</span>
+>Sistema de controle de versão
+>Gerência de Projetos de Software
+>Leonardo Santos
 
 #HSLIDE
 ### Wikipedia:
