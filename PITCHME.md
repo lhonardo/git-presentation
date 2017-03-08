@@ -3,6 +3,8 @@
 ## GIT
 
 <span style="color:gray">Sistema de controle de versão</span>
+<span style="color:gray">Gerência de Projetos de Software</span>
+<span style="color:gray">Leonardo Santos</span>
 
 #HSLIDE
 ### Wikipedia:
@@ -166,15 +168,7 @@ git push origin master
 
 #HSLIDE
 
-### Crie Branches!
-```
-git branch <nome da branch>
-```
-<img src="assets/gitbranch.png" style="max-height: 500px;"/>
-
-#HSLIDE
-
-### Junte tudo
+### Junte as branchs
 ```
 git checkout master
 git pull
@@ -222,4 +216,6 @@ PITCHME2.md
 <img src="assets/gitrebase.png" style="max-height: 500px;"/>
 
 #HSLIDE
-### Perguntas?
+### git commit -m "Fim"
+
+####Obrigado!
