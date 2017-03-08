@@ -71,6 +71,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 ### Git add & Git commit
 
 <img src="assets/commandstrees.png" style="max-height: 500px;"/>
+>Modified, Staged, Committed
 
 #VSLIDE
 
@@ -80,11 +81,15 @@ _<span style="color:gray">"Quando não funciona"</span>_
 
 #VSLIDE
 
-### Log
-```git
-git log
-```
+### git log
+
 <img src="assets/gitlog.png" style="max-height: 500px;"/>
+
+#HSLIDE
+
+### Não vamos deixar tudo local, certo?
+
+<img src="assets/gitpush.gif" style="max-height: 500px;"/>
 
 #HSLIDE
 
