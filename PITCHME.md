@@ -14,19 +14,20 @@
 
 #HSLIDE
 
-### Significado do nome
+### O Nome:
 
 #### Global Information Tracker
-> ("Se você estiver de bom humor")
+##### _("Se você estiver de bom humor")_
 
 #### Goddamn idiotic truckload of sh*t":
-> ("Quando não funciona")
+##### _("Quando não funciona")_
 
->Fonte: documentação do Git no github
+>_Fonte: documentação do Git no github_
 
 #HSLIDE
 
->
+### Motivo da sua crianção:
+
 
 #HSLIDE
 
