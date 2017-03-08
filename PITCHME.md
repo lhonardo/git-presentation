@@ -100,6 +100,55 @@ git push origin master
 <img src="assets/gitpush.gif" style="max-height: 500px;"/>
 
 #HSLIDE
+### Um pouco sobre branch
+>Um branch no Git é simplesmente ponteiro móvel para um commit.
+<img src="assets/branch1.png" style="max-height: 500px;"/>
+
+#VSLIDE
+### Criando um branch
+```
+git branch testing
+```
+>Um branch no Git é simplesmente ponteiro móvel para um commit.
+<img src="assets/branch2.png" style="max-height: 500px;"/>
+
+#VSLIDE
+### Onde estou?
+>Como o git sabe em qual branch eu estou? por outro ponteiro HEAD
+
+<img src="assets/branch3.png" style="max-height: 500px;"/>
+
+#VSLIDE
+### Mudando de branch
+```
+git checkout testing
+```
+<img src="assets/branch4.png" style="max-height: 500px;"/>
+
+#VSLIDE
+### Commit
+```
+git add .
+git commit -m 'commit em testing'
+```
+<img src="assets/branch5.png" style="max-height: 500px;"/>
+
+#VSLIDE
+### Voltando a master
+```
+git checkout master
+```
+<img src="assets/branch6.png" style="max-height: 500px;"/>
+
+#VSLIDE
+### Commit
+```
+git add .
+git commit -m 'commit na master'
+```
+<img src="assets/branch7.png" style="max-height: 500px;"/>
+
+#HSLIDE
 
 ### Mas e em grupo...
 
@@ -140,7 +189,7 @@ git merge feature
 
 #HSLIDE
 
-### e na hora de juntar tudo
+### Mantém organizado e tenta evitar...
 <img src="assets/gitmergefight.gif" style="max-height: 500px;"/>
 
 #HSLIDE
@@ -173,9 +222,4 @@ PITCHME2.md
 <img src="assets/gitrebase.png" style="max-height: 500px;"/>
 
 #HSLIDE
-### Fragment data
-- Java
-- JavaScript <!-- .element: class="fragment" -->
-- Kotlin     <!-- .element: class="fragment" -->
-- Go         <!-- .element: class="fragment" -->
-- Scala      <!-- .element: class="fragment" -->
+### Perguntas?
