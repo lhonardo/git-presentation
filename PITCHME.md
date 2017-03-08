@@ -135,8 +135,18 @@ git merge feature
 
 #HSLIDE
 
-### Imagine
+### Git branches
+<img src="assets/gitbranchesbig.jpg" style="max-height: 500px;"/>
+
+#HSLIDE
+
+### e na hora de juntar tudo
 <img src="assets/gitmergefight.gif" style="max-height: 500px;"/>
+
+#HSLIDE
+
+### Pull request
+<img src="assets/pullrequest.png" style="max-height: 500px;"/>
 
 #HSLIDE
 
