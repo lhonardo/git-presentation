@@ -63,6 +63,12 @@ _<span style="color:gray">"Quando não funciona"</span>_
 
 <img src="assets/commandstrees.png" style="max-height: 500px;"/>
 
+#VSLIDE
+
+### Linha do Tempo
+
+<img src="assets/timelinecommit.jpg" style="max-height: 500px;"/>
+
 #HSLIDE
 
 ### Imagine
