@@ -110,6 +110,7 @@ git push origin master
 git branch testing
 ```
 >Um branch no Git é simplesmente ponteiro móvel para um commit.
+
 <img src="assets/branch2.png" style="max-height: 500px;"/>
 
 #VSLIDE
