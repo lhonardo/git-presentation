@@ -144,13 +144,12 @@ git merge feature
 <img src="assets/gitmergefight.gif" style="max-height: 500px;"/>
 
 #HSLIDE
-
-### Fork e Pull request
-<img src="assets/pullrequest.png" style="max-height: 500px;"/>
+### Repo restrito
+<img src="assets/github.png" style="max-height: 500px;"/>
 
 #HSLIDE
-### Contribuindo um projeto opensource
-<img src="assets/github.png" style="max-height: 500px;"/>
+### Fork e Pull request
+<img src="assets/pullrequest.png" style="max-height: 500px;"/>
 
 #HSLIDE
 ### Concluindo
@@ -170,7 +169,7 @@ PITCHME2.md
 
 #HSLIDE
 ### Concluindo
-#### Rebase
+#### git rebase
 <img src="assets/gitrebase.png" style="max-height: 500px;"/>
 
 #HSLIDE
