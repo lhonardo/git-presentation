@@ -46,7 +46,7 @@
 #HSLIDE
 
 ### Centralized Repository
-<img src="assets/centralized-vs-distributed.png" style="height: auto;"/>
+<img src="assets/centralized-vs-distributed.png" style="max-height: 500px;"/>
 
 #HSLIDE
 
