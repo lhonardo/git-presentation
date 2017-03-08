@@ -125,6 +125,16 @@ git branch <nome da branch>
 
 #HSLIDE
 
+### Junte tudo
+```
+git checkout master
+git pull
+git merge feature
+```
+<img src="assets/gitmerge.gif" style="max-height: 500px;"/>
+
+#HSLIDE
+
 ### Imagine
 <img src="assets/gitmergefight.gif" style="max-height: 500px;"/>
 
