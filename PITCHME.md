@@ -33,11 +33,11 @@ _<span style="color:gray">"Quando não funciona"</span>_
 
 >_"I decided I could write something better than everything out there in two weeks. And I was right." -Linus Torvalds﻿_
 
-#### Que soluções existiam:
+#### Que soluções existiam em 2005:
 - Perforce
 - Monolitico
 - CVS
-- BitKeeper      
+- BitKeeper
 
 #HSLIDE
 
@@ -62,7 +62,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 
 <img src="assets/commandstree.png" style="max-height: 500px;"/>
 
-
+#HSLIDE
 ### Imagine
 <img src="assets/gitmergefight.gif" style="max-height: 500px;"/>
 
