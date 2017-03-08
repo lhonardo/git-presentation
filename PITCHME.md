@@ -95,9 +95,25 @@ git push origin master
 
 #HSLIDE
 
-### Visualizando melhor:
+### git push
 
 <img src="assets/gitpush.gif" style="max-height: 500px;"/>
+
+#HSLIDE
+
+### Mas e em grupo...
+
+<img src="assets/collaborativetimeline.jpg" style="max-height: 500px;"/>
+
+#HSLIDE
+
+### Conflitos
+<img src="assets/merge-conflict.png" style="max-height: 500px;"/>
+
+#HSLIDE
+
+### Resolvendo conflitos
+<img src="assets/conflict.png" style="max-height: 500px;"/>
 
 #HSLIDE
 
