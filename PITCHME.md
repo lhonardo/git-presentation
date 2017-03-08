@@ -216,6 +216,6 @@ PITCHME2.md
 <img src="assets/gitrebase.png" style="max-height: 500px;"/>
 
 #HSLIDE
-### git commit -m "Fim"
+### git commit -a -m "Fim"
 
 ####Obrigado!
