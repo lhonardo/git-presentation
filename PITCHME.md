@@ -43,7 +43,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 >_"I decided I could write something better than everything out there in two weeks. And I was right." -Linus Torvalds﻿_
 
 #HSLIDE
-### O que existia 2005?:
+### O que existia 2005?
 - Perforce
 - Monolitico
 - CVS
@@ -64,7 +64,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 ### As três árvores
 
 <img src="assets/workflow.png" style="max-height: 500px;"/>
->Committed, Modified, Staged
+>Modified, Staged, Committed
 
 #VSLIDE
 
