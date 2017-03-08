@@ -28,8 +28,24 @@
 
 #HSLIDE
 
-### Motivo da sua crianção:
+### Motivo do nascimento:
 
+>O principal motivo foi o descontentamento do Linus com as ferramentas diponíveis na época
+
+#### Que soluções haviam na época:
+- Perforce
+- Monolitico
+- CVS
+- BitKeeper      
+
+#HSLIDE
+
+### O que elas tinham em comum:
+> Além de não serem opensource o que mais essas soluções tinham em comum que fez o Linus buscar algo novo?
+
+#HSLIDE
+### Centralized Repository
+![centralized](assets/centralized-vs-distributed.png)
 
 #HSLIDE
 
