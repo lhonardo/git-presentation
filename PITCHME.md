@@ -32,7 +32,7 @@
 
 >O principal motivo foi o descontentamento do Linus com as ferramentas diponíveis na época
 
-#### Que soluções haviam na época:
+#### Que soluções existiam:
 - Perforce
 - Monolitico
 - CVS
@@ -47,6 +47,11 @@
 
 ### Centralized Repository
 <img src="assets/centralized-vs-distributed.png" style="max-height: 500px;"/>
+
+#HSLIDE
+
+### Imagine
+<img src="assets/gitmergefight.gif" style="max-height: 500px;"/>
 
 #HSLIDE
 
