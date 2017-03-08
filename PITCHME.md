@@ -43,9 +43,7 @@
 ### O que elas tinham em comum:
 > Além de não serem opensource o que mais essas soluções tinham em comum que fez o Linus buscar algo novo?
 
-#HSLIDE
-### Centralized Repository
-![centralized](assets/centralized-vs-distributed.png)
+#HSLIDE?image=assets/centralized-vs-distributed.png
 
 #HSLIDE
 
