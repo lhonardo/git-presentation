@@ -6,12 +6,12 @@
 
 #HSLIDE
 
-## Significado do nome, segundo a documentação:
+### Significado do nome, segundo a documentação:
 
-### Global Information Tracker
+#### Global Information Tracker
 > ("Se você estiver de bom humor")
 
-### Goddamn idiotic truckload of sh*t":
+#### Goddamn idiotic truckload of sh*t":
 > ("Quando não funciona")
 
 #HSLIDE
