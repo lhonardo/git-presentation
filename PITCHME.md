@@ -86,20 +86,6 @@ _<span style="color:gray">"Quando não funciona"</span>_
 <img src="assets/gitlog.png" style="max-height: 500px;"/>
 
 #HSLIDE
-
-### O objetivo é compartilhar!
-
-```
-git push origin master
-```
-
-#HSLIDE
-
-### git push
-
-<img src="assets/gitpush.gif" style="max-height: 500px;"/>
-
-#HSLIDE
 ### Um pouco sobre branch
 >Um branch no Git é simplesmente ponteiro móvel para um commit.
 
@@ -114,7 +100,7 @@ git branch testing
 
 #VSLIDE
 ### Onde estou?
->Como o git sabe em qual branch eu estou? por outro ponteiro HEAD
+>Como o git sabe em qual branch eu estou? por outro ponteiro, o HEAD
 
 <img src="assets/branch3.png" style="max-height: 500px;"/>
 
@@ -147,6 +133,20 @@ git add .
 git commit -m 'commit na master'
 ```
 <img src="assets/branch7.png" style="max-height: 500px;"/>
+
+#HSLIDE
+
+### O objetivo é compartilhar!
+
+```
+git push origin master
+```
+
+#HSLIDE
+
+### git push
+
+<img src="assets/gitpush.gif" style="max-height: 500px;"/>
 
 #HSLIDE
 
