@@ -2,7 +2,7 @@
 
 ## GIT
 
-<span style="color:gray">CVS</span>
+<span style="color:gray">Sistema de controle de versão</span>
 
 #HSLIDE
 ### Wikipedia:
@@ -87,7 +87,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 
 #HSLIDE
 
-### Não vamos deixar tudo local, certo?
+### O objetivo é compartilhar!
 
 ```
 git push origin master
@@ -145,12 +145,16 @@ git merge feature
 
 #HSLIDE
 
-### Pull request
+### Fork e Pull request
 <img src="assets/pullrequest.png" style="max-height: 500px;"/>
 
 #HSLIDE
+### Contribuindo um projeto opensource
+<img src="assets/github.png" style="max-height: 500px;"/>
+
+#HSLIDE
 ### Concluindo
-#### Gitignore
+#### .gitignore
 ```
 *.class
 *.log
@@ -163,6 +167,13 @@ target/
 
 PITCHME2.md
 ```
+
+#HSLIDE
+### Concluindo
+#### Rebase
+<img src="assets/gitrebase.png" style="max-height: 500px;"/>
+
+#HSLIDE
 ### Fragment data
 - Java
 - JavaScript <!-- .element: class="fragment" -->
