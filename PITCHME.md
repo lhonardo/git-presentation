@@ -89,6 +89,14 @@ _<span style="color:gray">"Quando não funciona"</span>_
 
 ### Não vamos deixar tudo local, certo?
 
+```
+git push origin master
+```
+
+#HSLIDE
+
+### Visualizando melhor:
+
 <img src="assets/gitpush.gif" style="max-height: 500px;"/>
 
 #HSLIDE
