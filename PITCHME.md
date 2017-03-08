@@ -49,20 +49,21 @@ _<span style="color:gray">"Quando não funciona"</span>_
 ### Centralized Repository
 <img src="assets/centralized-vs-distributed.png" style="max-height: 500px;"/>
 
-#HSLIDE
+#VSLIDE
 
 ### As três árvores
 
 <img src="assets/workflow.png" style="max-height: 500px;"/>
 >Committed, Modified, Staged
 
-#HSLIDE
+#VSLIDE
 
 ### Git add & Git commit
 
 <img src="assets/commandstree.png" style="max-height: 500px;"/>
 
 #HSLIDE
+
 ### Imagine
 <img src="assets/gitmergefight.gif" style="max-height: 500px;"/>
 
