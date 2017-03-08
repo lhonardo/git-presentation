@@ -53,10 +53,14 @@
 ### As três árvores
 
 <img src="assets/workflow.png" style="max-height: 500px;"/>
-
 >Committed, Modified, Staged
 
 #HSLIDE
+
+### Git add & Git commit
+
+<img src="assets/commandstree.png" style="max-height: 500px;"/>
+
 
 ### Imagine
 <img src="assets/gitmergefight.gif" style="max-height: 500px;"/>
