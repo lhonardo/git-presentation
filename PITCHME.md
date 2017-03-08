@@ -216,9 +216,9 @@ PITCHME2.md
 
 #HSLIDE
 ### Mais informações
--try.github.io/
--Digging deep into git - Youtube
--Linus Torvalds on git at Google talk 2007 - Youtube
+*try.github.io/
+*Digging deep into git - Youtube
+*Linus Torvalds on git at Google talk 2007 - Youtube
 
 #HSLIDE
 ### git commit -a -m "Fim"
