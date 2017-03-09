@@ -215,6 +215,12 @@ PITCHME2.md
 <img src="assets/gitrebase.png" style="max-height: 500px;"/>
 
 #HSLIDE
+### Mais informações
+* try.github.io/
+* Digging deep into git - Youtube
+* Linus Torvalds on git at Google talk 2007 - Youtube
+
+#HSLIDE
 ### git commit -a -m "Fim"
 
 ####Obrigado!
