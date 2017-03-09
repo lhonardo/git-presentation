@@ -3,7 +3,7 @@
 ## GIT
 
 >Gerência de Projetos de Software
->Leonardo Santos
+>Leonardo
 
 #HSLIDE
 ### Wikipedia:
@@ -44,7 +44,7 @@ _<span style="color:gray">"Quando não funciona"</span>_
 >_"I decided I could write something better than everything out there in two weeks. And I was right." -Linus Torvalds﻿_
 
 #HSLIDE
-### O que existia 2005?
+### O que existia em 2005?
 - Perforce
 - Monolitico
 - CVS
